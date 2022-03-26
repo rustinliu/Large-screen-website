@@ -1,1 +1,0 @@
-import{_ as t}from"./index.e69ed2f7.js";import{r,o as n,c as a,a as s,w as c,F as _,i as e}from"./vendor.32300930.js";const i={},l=e(" \u914D\u7F6E\u9875\u9762 "),f=e("\u8FD4\u56DE\u9996\u9875");function m(d,p){const o=r("router-link");return n(),a(_,null,[l,s(o,{to:"/"},{default:c(()=>[f]),_:1})],64)}var h=t(i,[["render",m]]);export{h as default};
